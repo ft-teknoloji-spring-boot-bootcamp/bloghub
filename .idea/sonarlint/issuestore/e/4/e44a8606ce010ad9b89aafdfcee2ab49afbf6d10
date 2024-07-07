@@ -1,0 +1,33 @@
+
+™
+java:S1192"QDefine a constant instead of duplicating this literal "toygun@gmail.com" 3 times.(³•¤Šÿÿÿÿÿ8ş ûäˆ2J$a9f368a5-8eba-4598-ad12-ae0a3d633938
+‘
+java:S1192"NDefine a constant instead of duplicating this literal "cem@gmail.com" 7 times.(ŠÓÜÖ8ş ûäˆ2J$8b6fd0e7-ccc3-43a2-89c2-26e59982af79
+‘
+java:S1192<"IDefine a constant instead of duplicating this literal "baÅŸlÄ±k" 4 times.(¡ìÍìıÿÿÿÿ8ş ûäˆ2J$0be81b94-ec47-4a23-a5f2-3b201bfcefaa
+]
+java:S1220""Move this file to a named package.8ş ûäˆ2J$fb5cbb7e-ed70-4119-98d0-f44294cec364
+€
+java:S1854>"=Remove this useless assignment to local variable "foundBlog".(¯¹ø±8¡ûäˆ2J$3d5f8bd9-7c3a-4fcb-9eb8-e483ef0057d1
+~
+java:S18546";Remove this useless assignment to local variable "cemUser".(İµÓ–8¡ûäˆ2J$114ba655-0c09-4151-934a-db7287891816
+Œ
+java:S1854."DRemove this useless assignment to local variable "allUsersBlogList".(–”Øêüÿÿÿÿ8¡ûäˆ2J$4a584847-c08b-4567-842d-6b783ab09877
+…
+java:S1854)"=Remove this useless assignment to local variable "emailList".(Ïÿµõùÿÿÿÿ8¡ûäˆ2J$10ec8a3a-f99c-4880-8c07-13c451cf798d
+m	java:S106"+Replace this use of System.out by a logger.(²¥×•8ƒ¡ûäˆ2J$6ccd87f4-2476-4c32-a6be-1d3f467992f7
+m
+java:S2201%"*The return value of "toList" must be used.(õŞ²ü8ƒ¡ûäˆ2J$1cf1c493-796f-47c9-937f-a901fe60636f
+d
+java:S3864#"!Remove this use of "Stream.peek".(ßˆ±ö8„¡ûäˆ2J$c6813f35-664e-4498-8b3c-7cd60b11cacd
+m	java:S106#"+Replace this use of System.out by a logger.(ßˆ±ö8„¡ûäˆ2J$b77f1980-f49e-43fe-b811-46ed8b9ffdb1
+v
+java:S1481)".Remove this unused "emailList" local variable.(Ïÿµõùÿÿÿÿ8…¡ûäˆ2J$4d4e830b-5a37-46a8-9603-66769d8e258d
+}
+java:S1481."5Remove this unused "allUsersBlogList" local variable.(–”Øêüÿÿÿÿ8…¡ûäˆ2J$9d68a904-1394-4646-b909-62a805c50540
+o
+java:S14816",Remove this unused "cemUser" local variable.(İµÓ–8…¡ûäˆ2J$e02447cc-2dda-418c-86d1-302db55fe923
+q
+java:S1481>".Remove this unused "foundBlog" local variable.(¯¹ø±8†¡ûäˆ2J$146566ff-25ba-4518-aa29-9e4b95ac6012
+~	java:S125F"<This block of commented-out lines of code should be removed.(½‰â‰8†¡ûäˆ2J$dffd1de2-d096-4bf8-982c-949970a35f7e
+}	java:S125["<This block of commented-out lines of code should be removed.(Á½Œ?8†¡ûäˆ2J$883bdd26-e159-4bb9-96a9-8ea29bfd88f3
